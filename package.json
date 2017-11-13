@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "guid": "^0.0.12",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-util": "^3.0.0",
+    "gulp-wrap": "^0.13.0",
+    "through2": "^0.6.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "homepage": "https://github.com/brainpoint/gulp-copy-content#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brainpoint/gulp-copy-content.git"
+  },
+  "description": "提取html文件中的handerbars模板文件，预编译到指定目录,并且可以在html文件中建立script链接",
+  "devDependencies": {
+    "handlebars": "^4.0.11"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "",
+    "tarball": ""
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "handerbars",
+    "precompile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [],
+  "name": "gulp-handlebars-precompile-ex",
+  "scripts": {},
+  "version": "0.0.1"
+}
